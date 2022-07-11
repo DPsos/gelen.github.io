@@ -1,0 +1,85 @@
+
+.body {
+    background-image: url(/gelen.jpg);
+}
+
+.posit {
+    background-color: darkgrey;
+    padding: 10px;
+    border: 2px solid #fffff6;
+    position: fixed;
+    width: 110%;
+    margin: -44px;
+    z-index: 1;
+}
+
+
+.box{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.telo {
+    font-weight: 20;
+    margin: 20%;
+    margin-top: 45px;
+    margin-bottom: 20px;
+    bottom: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:bisque;
+    opacity: 90%;
+    padding: 20px;
+}
+
+.hoh {
+    width: 100%;
+    border-radius: 10% 10% 10% 10%;
+}
+
+.zver {
+    width: 100%;
+    border-radius: 10% 10% 10% 10%;
+}
+
+.kyror {
+    background: #93fdfd ;
+    padding: 20px;
+    padding-top: 5px;
+    padding-right: 2px;
+    border-radius: 30px;
+    margin: 20px;
+    padding-right: 20px;
+    border: 2px solid black;
+}
+
+.dostop {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.park {
+    border: black 2px solid;
+    margin: 0px;
+    padding: 10px;
+}
+
+.site {
+    margin: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.site-link {
+    text-align: center;
+}
+
+a {
+    color:coral;
+    text-decoration: none;
+}
+
+a:hover {
+    color:aqua;
+}
