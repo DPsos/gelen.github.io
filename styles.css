@@ -3,6 +3,8 @@
     background-image: url(/gelen.jpg);
 }
 
+
+
 .posit {
     background-color: darkgrey;
     padding: 10px;
@@ -81,5 +83,91 @@ a {
 }
 
 a:hover {
-    color:aqua;
+    color:rgb(255, 0, 0);
+}
+
+.center {
+    text-align: center;
+}
+
+.everest-foto {
+    width: 200px;
+    height: 200px;
+}
+
+.everest-text1 {
+    text-align: center;
+    text-decoration: underline;
+    margin-left: 43px;
+}
+
+img:hover {
+    opacity: 80%;
+}
+
+/* main */
+
+.ever {
+    background-image: url(ev.jpg);
+}
+
+.posit-ever {
+    background-color: darkgrey;
+    padding: 10px;
+    border: 2px solid #fffff6;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    margin-top: -45px;
+    margin-left: -15px;
+    opacity: 80%;
+
+}
+
+.skopil {
+    background-color: #93fdfd;
+    opacity: 60%;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 100%;
+}
+
+.telos {
+    margin: 20%;
+    background-color: aqua;
+    margin-top: 45px;
+    margin-bottom: 20px;
+    opacity: 80%;
+    text-align: center;
+    padding: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ever-fot {
+    width: 100%;
+    opacity: 100%;
+    border-radius: 15px 15px 15px 15px;
+    z-index: 2;
+}
+
+.und {
+    text-decoration: underline;
+}
+
+.everblock {
+    background-color: #fffff6;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 12px 12px 12px 12px;
+    border: 1px solid black;
+}
+
+.gelenchik-foto {
+    width: 100%;
+}
+
+.gelenchik-text1 {
+    margin-bottom: 10px;
+    text-decoration: solid;
 }
